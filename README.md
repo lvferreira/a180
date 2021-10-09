@@ -34,8 +34,4 @@
 
 <br/>
 
-## 📷 Screenshots
-![image](_/71cf24c20ced.gif)
-
-
 ## 
