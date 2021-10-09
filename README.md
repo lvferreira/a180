@@ -8,8 +8,6 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
   </a>
 </div>
-<br/>
-
 
 ## 👨🏽‍💻 Technologies
 <p align="left">
@@ -26,12 +24,10 @@
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/85ec92b476b9e9ef1d1e18cb42f894b6124cee88/icons/yaml.svg" title="yaml" alt="yaml" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/85ec92b476b9e9ef1d1e18cb42f894b6124cee88/icons/jenkins.svg" title="jenkins" alt="jenkins" width="25" height="25" />
 </P>
-<br/>
 
 ## 🛠️ Steps
 ![image](_/steps.svg)
 [Tutorial Docker Web-agent](https://bit.ly/3ktpEw2)
 
-<br/>
 
 ## 
